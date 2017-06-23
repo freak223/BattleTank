@@ -1,3 +1,6 @@
 BattleTank/Content/UltraDynamicSky/
 *.session
 *.tmd
+Landscape_Normal.png
+Mask.png
+BattleTank/Content/Material/T_Mask.uasset
